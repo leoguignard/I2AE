@@ -1,0 +1,6 @@
+[submodule "IO"]
+	path = IO
+	url = https://github.com/leoguignard/IO
+[submodule "TGMMlibraries"]
+	path = TGMMlibraries
+	url = https://github.com/leoguignard/TGMMlibraries
