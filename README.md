@@ -1,6 +1,6 @@
 # I2AE
 
-This repository contains the software to register an annotated image data onto our average embryo. This software is described in our Mouse-Atlas article: A dynamic atlas of mouse development: multi-scale analysis of gastrulation and early organogenesis
+This repository contains the software to register an annotated image data onto our average embryo. This software is described in the article *In toto imaging and reconstruction of post-implantation mouse development at the single-cell level*
 
 ## Description of the repository
 Folders:
